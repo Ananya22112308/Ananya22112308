@@ -1,6 +1,8 @@
 ### Hi there 👋
-🌱 I’m currently learning python 
+🌱 I’m currently learning python
+
 ᓚᘏᗢ
+
 😺Studying in Christ University
 
 <!--
