@@ -3,7 +3,7 @@
 
 ᓚᘏᗢ
 
-😺Studying in Christ University
+😺Studying at Christ University
 
 <!--
 **Ananya22112308/Ananya22112308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
