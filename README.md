@@ -1,4 +1,5 @@
 ### Hi there 👋
+🌱 I’m currently learning python
 
 <!--
 **Ananya22112308/Ananya22112308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
